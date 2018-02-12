@@ -1,0 +1,23 @@
+#cool {
+	color: purple;
+	font-family: 'Indie Flower', serif;
+}
+
+body {
+	color: red;
+	text-align: center;
+}
+
+p {
+
+	color: green;
+}
+
+.blue {
+	color: blue;
+}
+
+.cool-class {
+	text-align: left;
+	color: yellow;
+}
